@@ -1,12 +1,13 @@
 package com.fakechain;
 import java.util.ArrayList;
+import com.google.gson.GsonBuilder;
 
 
 public class FakeChain {
   public static ArrayList<Block> blockchain = new ArrayList<Block>(); // create an arraylist to store blocks
   public static int difficulty = 5;
   
-  public static void main(String[] args) {
+  public static void FakeChain(String[] args) {
 
     blockchain.add(new Block("Hi im the first block", "0"));
     System.out.println("Trying to Mine block 1... ");
