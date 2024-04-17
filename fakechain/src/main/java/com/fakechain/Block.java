@@ -1,4 +1,4 @@
-package fakechain;
+package com.fakechain;
 import java.util.Date;
 
 public class Block {
