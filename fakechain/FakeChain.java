@@ -1,4 +1,6 @@
+package fakechain;
 import java.util.ArrayList;
+
 
 public class FakeChain {
   public static ArrayList<Block> blockchain = new ArrayList<Block>(); // create an arraylist to store blocks
