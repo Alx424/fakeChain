@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>gson</module>
+        <module>fakechain</module>
     </modules>
 
     <properties>
