@@ -1,4 +1,4 @@
-package com.fakechain;
+package fakechain;
 import java.security.MessageDigest;
 
 public class StringUtil {
