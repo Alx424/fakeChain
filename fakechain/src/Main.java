@@ -1,4 +1,4 @@
-package fakechain.src;
+package fakechain;
 import java.util.ArrayList;
 
 public class Main {

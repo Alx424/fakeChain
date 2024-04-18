@@ -1,4 +1,4 @@
-package fakechain.src;
+package fakechain;
 import java.security.MessageDigest;
 
 import com.google.gson.GsonBuilder;
